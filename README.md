@@ -1,7 +1,4 @@
-#  I am Gabriel.
-
-![Darth Vader](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh1ZXpuM3pjZnU3ajl2NDFiOXhqaXhsYnd6b2l1cHpmaXZoZ2c3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mZAL1GTRA8VnkRaU47/giphy.gif)
-
+# Hi, I'm Gabriel.
 
 ## 😎 Sobre mim
 
