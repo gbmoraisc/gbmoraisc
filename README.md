@@ -6,7 +6,6 @@
 
 🔹Sempre em busca de conhecimento.
 
-🔹Apaixonado por tecnologia.
 
 
 ## 💻 tecnologias
